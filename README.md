@@ -1,22 +1,23 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
 
-### Goal: Build a Simple Todo List
 
-### How to submit your code for review:
+## Overview
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+This app lets a user:
+- Add a new task
+- View all tasks in a list
+- Mark tasks as complete
+- Remove tasks that are no longer needed
+The goal of the project is to practice building a clean, functional front-end interface for managing everyday tasks.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Features
+- Simple task input
+- To-do list display
+- Completion tracking
+- Task deletion
+
+## Example flow
+Type a task in the input field
+Press the add button
+The task appears in the todo list
+Click the task or a completion control to mark it done
+Remove it when it is no longer needed
