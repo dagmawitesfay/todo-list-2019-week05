@@ -17,7 +17,11 @@ The goal of the project is to practice building a clean, functional front-end in
 
 ## Example flow
 Type a task in the input field
+
 Press the add button
-The task appears in the todo list
+
+The task appears in the to-do list
+
 Click the task or a completion control to mark it done
+
 Remove it when it is no longer needed
